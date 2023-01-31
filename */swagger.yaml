@@ -7,7 +7,7 @@ servers:
   - url: https://virtserver.swaggerhub.com/MADHAKUDAY_1/My_Test_Api/1.0.0
     description: SwaggerHub API Auto Mocking
 paths:
-  /OkFineDone:
+  /device:
     get:
       tags:
         - Device
