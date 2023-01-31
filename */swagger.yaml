@@ -42,7 +42,7 @@ paths:
                 items:
                   type: string
                   format: uri
-                  example: http://10.0.0.225:8080
+                  example: Test data
     post:
       tags:
         - Device
